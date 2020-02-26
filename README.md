@@ -1,2 +1,2 @@
 
-Using for imageconver.py : "python imageconverter.py [PATH]"
+Using for imageconver.py : "python converttothumbnail.py [PATH]"
